@@ -1,0 +1,5 @@
+First version of Ai Council.  
+
+It uses LLama language models. Curentlly it runs on cpu ( it is very slow but it is just a prototype, in the future versions I will make it run on gpu).
+
+I wrote it in Visual Studio Code, and run it in venv. 
